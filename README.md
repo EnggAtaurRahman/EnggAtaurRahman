@@ -32,7 +32,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enggataurrahman&" alt="enggataurrahman" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahidulcse12&show_icons=true&locale=en&layout=compact" alt="sahidulcse12" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahidulcse12&show_icons=true&locale=en" alt="sahidulcse12" /></p>
 
