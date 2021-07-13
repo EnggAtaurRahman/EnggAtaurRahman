@@ -20,11 +20,12 @@ I read books and love to 📚. I have interest in history, politics, literature,
 ### Talking about Personal Stuffs
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning react.js;
+- 🌱 I’m currently learning React.js and Node.js;
+- 👯 I’m looking to collaborate on others mern-stack developer;
 - 💬 Ask me about anything, I’d love to hear from you;
 - 📫 Reach me via [email](mailto:ataur2323@gmail.com);
 - 😄 Pronouns: He, His;
-- ⚡ Fun fact: I'm actually an alien (🤫 nobody knows that but me);
+- ⚡ Fun fact: I think I am so funny and love to travel;
 - 💪 I'm a fast learner looking for interesting career opportunities, skills and growth;
 - 🪐 My activities are much beyond my stream of education and profession;
 
@@ -91,4 +92,4 @@ I read books and love to 📚. I have interest in history, politics, literature,
   <img src="https://komarev.com/ghpvc/?username=arafat-hasan&color=yellowgreen&style=flat" alt="arafat-hasan" />
 </p>
 -->
-<p align="center"><a href="https://github.com/arafat-hasan/arafat-hasan/#"><img src="img/barsSmall.gif?raw=true" alt="Animated footer bars" width="100%"/></a></p>
+<p align="center"><a href="https://github.com/EnggAtaurRahman/EnggAtaurRahman/#"><img src="img/barsSmall.gif?raw=true" alt="Animated footer bars" width="100%"/></a></p>
