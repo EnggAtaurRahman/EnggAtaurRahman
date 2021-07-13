@@ -43,15 +43,8 @@ I read books and love to 📚. I have interest in history, politics, literature,
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enggataurrahman&show_icons=true&locale=en" alt="enggataurrahman" /></p> -->
+<p align="right"
+ width="40%">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enggataurrahman&show_icons=true&locale=en" alt="enggataurrahman" /></p>
 
 
 
-<!-- <br>
-<p align="center">
-<a href="https://github.com/EnggAtaurRahman/EnggAtaurRahman">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=arafat-hasan&count_private=true&show_icons=true&include_all_commits=true&custom_title=Arafat+Hasan%27s+Github+Status&theme=solarized-dark" />
-</a>
-
-<p align="center"><a href="https://github.com/EnggAtaurRahman/EnggAtaurRahman/#"><img src="img/barsSmall.gif?raw=true" alt="Animated footer bars" width="100%"/></a></p>
- -->
