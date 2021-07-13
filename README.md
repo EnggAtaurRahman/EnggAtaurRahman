@@ -24,7 +24,7 @@ I read books and love to 📚. I have interest in history, politics, literature,
 - 👯 I’m looking to collaborate on others mern-stack developer
 - 💬 Ask me about anything, I’d love to hear from you
 - 📫 Reach me via [email](mailto:ataur2323@gmail.com)
-- 😄 Pronouns: He, His;
+- 😄 Pronouns: He, His
 - ⚡ Fun fact: I think I am so funny and love to travel
 - 💪 I'm a fast learner looking for interesting career opportunities, skills and growth
 - 🪐 My activities are much beyond my stream of education and profession
