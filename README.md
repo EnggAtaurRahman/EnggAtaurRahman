@@ -45,51 +45,12 @@ I read books and love to 📚. I have interest in history, politics, literature,
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enggataurrahman&show_icons=true&locale=en" alt="enggataurrahman" /></p>
 
-### Technologies & Tools
-<code><img src="https://img.shields.io/badge/python-14354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/c-00599C.svg?&style=for-the-badge&logo=c&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/java-ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/markdown-000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/latex-008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/github-121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/apache-D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/samba-D42029.svg?&style=for-the-badge&logo=samba&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/-Vim-019833?style=for-the-badge&logo=vim&logoColor=white"/></code>
-<code><img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/></code>
-<code><img src ="https://img.shields.io/badge/-Redis-black?&style=for-the-badge&logo=Redis&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/travisci-2B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/github%20actions-2671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/Keras-D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /></code>
-<code><img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" /></code>
-<code><img src="https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /></code>
-<code><img src="https://img.shields.io/badge/numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /></code>
-<code><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /></code>
-<code><img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /></code>
-
-<!--<code><img src="https://img.shields.io/badge/docker-0db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/></code>-->
 
 
 <br>
 <p align="center">
-<a href="https://github.com/arafat-hasan/arafat-hasan">
+<a href="https://github.com/EnggAtaurRahman/EnggAtaurRahman">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=arafat-hasan&count_private=true&show_icons=true&include_all_commits=true&custom_title=Arafat+Hasan%27s+Github+Status&theme=solarized-dark" />
 </a>
-<!--
-<a href="https://github.com/arafat-hasan/arafat-hasan">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-hasan&langs_count=6&include_all_commits=true&theme=solarized-dark" />
-</a> -->
-</p>
 
-<!-- ![Arafat Hasan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arafat-hasan) -->
-
-<!--
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=arafat-hasan&color=yellowgreen&style=flat" alt="arafat-hasan" />
-</p>
--->
 <p align="center"><a href="https://github.com/EnggAtaurRahman/EnggAtaurRahman/#"><img src="img/barsSmall.gif?raw=true" alt="Animated footer bars" width="100%"/></a></p>
