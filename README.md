@@ -1,8 +1,8 @@
 
 <h1 align="center">Ataur Rahman</h1>
 <h4 align="center"> Continuous Learner • Outsider Observer </h4>
-<!-- <p align="center"> <tt><a href="https://www.arafathasan.me/">www.arafathasan.me</a></tt></a> </p> -->
-
+<!-- <p align="center"> <tt><a href="https://www.ataurrahman.com/">www.ataurrahman.com</a></tt></a> </p>
+ -->
 
 ## Hey there 👋
 <div>
@@ -43,7 +43,7 @@ I read books and love to 📚. I have interest in history, politics, literature,
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enggataurrahman&show_icons=true&locale=en" alt="enggataurrahman" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enggataurrahman&show_icons=true&locale=en" alt="enggataurrahman" /></p> -->
 
 
 
