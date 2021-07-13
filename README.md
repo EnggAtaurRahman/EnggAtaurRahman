@@ -43,8 +43,24 @@ I read books and love to 📚. I have interest in history, politics, literature,
 
 
 
+<p align="center">
+<a href="https://github.com/arafat-hasan/arafat-hasan">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=arafat-hasan&count_private=true&show_icons=true&include_all_commits=true&custom_title=Arafat+Hasan%27s+Github+Status&theme=solarized-dark" />
+</a>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
+<a href="https://github.com/arafat-hasan/arafat-hasan">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-hasan&langs_count=6&include_all_commits=true&theme=solarized-dark" />
+</a>
+</p>
+
+![Arafat Hasan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arafat-hasan)
+
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=arafat-hasan&color=yellowgreen&style=flat" alt="arafat-hasan" />
+</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enggataurrahman&show_icons=true&locale=en" alt="enggataurrahman" /></p>
 
