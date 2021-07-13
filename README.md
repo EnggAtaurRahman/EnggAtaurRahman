@@ -48,5 +48,5 @@ I read books and love to 📚. I have interest in history, politics, literature,
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enggataurrahman&show_icons=true&locale=en" alt="enggataurrahman" /></p>
 
-
+<p align="center"><a href="https://github.com/arafat-hasan/arafat-hasan/#"><img src="img/barsSmall.gif?raw=true" alt="Animated footer bars" width="100%"/></a></p>
 
